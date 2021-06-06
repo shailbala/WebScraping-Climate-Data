@@ -1,0 +1,33 @@
+## features of data to keep in each text file:
+## starts after the unique word: '"details:"'
+## The text then starts with a [ - square bracket
+## The text ending is marked with the unique word ',"grid"'
+## The text ends with ] - square bracket
+
+## for every date, there are 4 ,-comma separated entries
+## each entry is enclosed in {}
+## 1st entry has 14 key: value items
+## rest 3 entries have 11 key: value items
+## 1st entry has these 3 extra pairs:
+## "hl": "true"
+## "hls": "Fri, 26 Feb"
+## "hlsh": "26 Feb"
+
+## meaning of all other 11 items:
+## date - date in some other format
+## ts - time stamp, the entry tells about the period starting with this time
+## ds - date stamp, full date and time range
+## icon - not useful
+## desc - description of the weather, clear, haze, sunny etc.
+## temp - temperature in degree C
+## templow - temperature low......
+## baro - pressure? in mbar
+## wind
+## wd
+## wind speed in km/h
+## hum - humidity - units?
+
+## open one file at a time and do the following:
+## only take out the useful data using regex
+## for every date, remove the 3 pairs containing "hl" as key
+## parse this as a pandas data frame
