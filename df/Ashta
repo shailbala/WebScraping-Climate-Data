@@ -1,0 +1,595 @@
+ts,ds,desc,temp,templow,baro,wind,wd,hum
+06:00,"Friday, 1 January 2021, 06:00 — 12:00",Sunny.,26.0,21.0,1014,4,90,74
+12:00,"Friday, 1 January 2021, 12:00 — 18:00",Partly sunny.,29.0,28.0,1009,4,90,50
+18:00,"Friday, 1 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Saturday, 2 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Saturday, 2 January 2021, 06:00 — 12:00",Scattered clouds.,24.0,19.0,1015,5,90,68
+12:00,"Saturday, 2 January 2021, 12:00 — 18:00",Passing clouds.,29.0,28.0,1009,4,90,36
+18:00,"Saturday, 2 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Sunday, 3 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Sunday, 3 January 2021, 06:00 — 12:00",Sunny.,26.0,19.0,1012,3,140,62
+12:00,"Sunday, 3 January 2021, 12:00 — 18:00",Scattered clouds.,29.0,28.0,1007,3,90,49
+18:00,"Sunday, 3 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Monday, 4 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Monday, 4 January 2021, 06:00 — 12:00",Overcast.,23.0,22.0,1012,2,90,74
+12:00,"Monday, 4 January 2021, 12:00 — 18:00",Overcast.,25.0,25.0,1009,0,0,68
+18:00,"Monday, 4 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Tuesday, 5 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Tuesday, 5 January 2021, 06:00 — 12:00",Overcast.,24.0,21.0,1013,1,110,88
+12:00,"Tuesday, 5 January 2021, 12:00 — 18:00",Partly sunny.,27.0,27.0,1009,2,90,62
+18:00,"Tuesday, 5 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Wednesday, 6 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Wednesday, 6 January 2021, 06:00 — 12:00",Scattered clouds.,27.0,22.0,1012,5,90,72
+12:00,"Wednesday, 6 January 2021, 12:00 — 18:00",Partly sunny.,29.0,28.0,1007,5,90,54
+18:00,"Wednesday, 6 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Thursday, 7 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Thursday, 7 January 2021, 06:00 — 12:00",Overcast.,24.0,24.0,1010,7,90,82
+12:00,"Thursday, 7 January 2021, 12:00 — 18:00",Partly sunny.,28.0,27.0,1006,4,90,62
+18:00,"Thursday, 7 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Friday, 8 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Friday, 8 January 2021, 06:00 — 12:00",Overcast.,26.0,23.0,1010,2,90,74
+12:00,"Friday, 8 January 2021, 12:00 — 18:00",Partly sunny.,26.0,24.0,1006,2,90,78
+18:00,"Friday, 8 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Saturday, 9 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Saturday, 9 January 2021, 06:00 — 12:00",Overcast.,25.0,22.0,1011,2,90,84
+12:00,"Saturday, 9 January 2021, 12:00 — 18:00",Partly sunny.,28.0,28.0,1006,3,90,62
+18:00,"Saturday, 9 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Sunday, 10 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Sunday, 10 January 2021, 06:00 — 12:00",Fog.,22.0,22.0,1011,2,90,86
+12:00,"Sunday, 10 January 2021, 12:00 — 18:00",Passing clouds.,30.0,29.0,1007,3,90,48
+18:00,"Sunday, 10 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Monday, 11 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Monday, 11 January 2021, 06:00 — 12:00",Partly sunny.,27.0,21.0,1012,4,70,70
+12:00,"Monday, 11 January 2021, 12:00 — 18:00",Scattered clouds.,31.0,30.0,1008,3,90,44
+18:00,"Monday, 11 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Tuesday, 12 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Tuesday, 12 January 2021, 06:00 — 12:00",Overcast.,28.0,21.0,1013,4,90,54
+12:00,"Tuesday, 12 January 2021, 12:00 — 18:00",Passing clouds.,30.0,29.0,1009,5,90,40
+18:00,"Tuesday, 12 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Wednesday, 13 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Wednesday, 13 January 2021, 06:00 — 12:00",Passing clouds.,28.0,21.0,1013,3,140,55
+12:00,"Wednesday, 13 January 2021, 12:00 — 18:00",Partly sunny.,30.0,30.0,1008,3,90,34
+18:00,"Wednesday, 13 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Thursday, 14 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Thursday, 14 January 2021, 06:00 — 12:00",Passing clouds.,26.0,20.0,1013,3,70,59
+12:00,"Thursday, 14 January 2021, 12:00 — 18:00",Passing clouds.,30.0,30.0,1007,3,90,37
+18:00,"Thursday, 14 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Friday, 15 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Friday, 15 January 2021, 06:00 — 12:00",Sunny.,26.0,20.0,1012,2,110,60
+12:00,"Friday, 15 January 2021, 12:00 — 18:00",Scattered clouds.,30.0,29.0,1007,2,90,36
+18:00,"Friday, 15 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Saturday, 16 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Saturday, 16 January 2021, 06:00 — 12:00",Sunny.,27.0,21.0,1010,3,90,64
+12:00,"Saturday, 16 January 2021, 12:00 — 18:00",Passing clouds.,31.0,30.0,1005,1,90,40
+18:00,"Saturday, 16 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Sunday, 17 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Sunday, 17 January 2021, 06:00 — 12:00",Sunny.,27.0,22.0,1011,1,110,68
+12:00,"Sunday, 17 January 2021, 12:00 — 18:00",Scattered clouds.,31.0,30.0,1006,3,180,44
+18:00,"Sunday, 17 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Monday, 18 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Monday, 18 January 2021, 06:00 — 12:00",Sunny.,27.0,22.0,1013,2,90,58
+12:00,"Monday, 18 January 2021, 12:00 — 18:00",Sunny.,30.0,29.0,1008,3,90,42
+18:00,"Monday, 18 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Tuesday, 19 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Tuesday, 19 January 2021, 06:00 — 12:00",Sunny.,27.0,21.0,1013,1,140,64
+12:00,"Tuesday, 19 January 2021, 12:00 — 18:00",Passing clouds.,30.0,30.0,1008,2,90,41
+18:00,"Tuesday, 19 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Wednesday, 20 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Wednesday, 20 January 2021, 06:00 — 12:00",Sunny.,27.0,21.0,1014,2,90,67
+12:00,"Wednesday, 20 January 2021, 12:00 — 18:00",Sunny.,30.0,30.0,1010,0,0,42
+18:00,"Wednesday, 20 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Thursday, 21 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Thursday, 21 January 2021, 06:00 — 12:00",Sunny.,26.0,20.0,1013,1,90,70
+12:00,"Thursday, 21 January 2021, 12:00 — 18:00",Sunny.,30.0,29.0,1008,1,90,44
+18:00,"Thursday, 21 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Friday, 22 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Friday, 22 January 2021, 06:00 — 12:00",Sunny.,27.0,20.0,1013,2,340,60
+12:00,"Friday, 22 January 2021, 12:00 — 18:00",Sunny.,31.0,30.0,1008,4,90,34
+18:00,"Friday, 22 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Saturday, 23 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Saturday, 23 January 2021, 06:00 — 12:00",Sunny.,27.0,20.0,1013,1,90,68
+12:00,"Saturday, 23 January 2021, 12:00 — 18:00",Sunny.,31.0,30.0,1008,0,0,38
+18:00,"Saturday, 23 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Sunday, 24 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Sunday, 24 January 2021, 06:00 — 12:00",Sunny.,27.0,21.0,1013,1,270,69
+12:00,"Sunday, 24 January 2021, 12:00 — 18:00",Sunny.,31.0,31.0,1008,0,0,38
+18:00,"Sunday, 24 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Monday, 25 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Monday, 25 January 2021, 06:00 — 12:00",Sunny.,28.0,20.0,1014,0,0,66
+12:00,"Monday, 25 January 2021, 12:00 — 18:00",Sunny.,31.0,30.0,1009,1,70,33
+18:00,"Monday, 25 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Tuesday, 26 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Tuesday, 26 January 2021, 06:00 — 12:00",No weather data available,,,0,0,0,0
+12:00,"Tuesday, 26 January 2021, 12:00 — 18:00",Sunny.,31.0,30.0,1008,1,0,36
+18:00,"Tuesday, 26 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Wednesday, 27 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Wednesday, 27 January 2021, 06:00 — 12:00",Sunny.,27.0,19.0,1013,1,90,58
+12:00,"Wednesday, 27 January 2021, 12:00 — 18:00",Sunny.,31.0,30.0,1008,1,90,30
+18:00,"Wednesday, 27 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Thursday, 28 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Thursday, 28 January 2021, 06:00 — 12:00",Sunny.,27.0,19.0,1014,1,180,62
+12:00,"Thursday, 28 January 2021, 12:00 — 18:00",Scattered clouds.,31.0,30.0,1009,2,180,34
+18:00,"Thursday, 28 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Friday, 29 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Friday, 29 January 2021, 06:00 — 12:00",Haze.,19.0,19.0,1015,0,0,82
+12:00,"Friday, 29 January 2021, 12:00 — 18:00",Scattered clouds.,30.0,29.0,1010,3,290,38
+18:00,"Friday, 29 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Saturday, 30 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Saturday, 30 January 2021, 06:00 — 12:00",Sunny.,27.0,20.0,1014,2,140,58
+12:00,"Saturday, 30 January 2021, 12:00 — 18:00",Sunny.,30.0,29.0,1009,1,110,34
+18:00,"Saturday, 30 January 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Sunday, 31 January 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Sunday, 31 January 2021, 06:00 — 12:00",Sunny.,27.0,19.0,1014,1,180,56
+12:00,"Sunday, 31 January 2021, 12:00 — 18:00",Sunny.,30.0,29.0,1009,2,200,32
+06:00,"Monday, 1 February 2021, 06:00 — 12:00",Sunny.,27.0,20.0,1017,1,90,54
+12:00,"Monday, 1 February 2021, 12:00 — 18:00",Scattered clouds.,30.0,29.0,1012,5,110,34
+18:00,"Monday, 1 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Tuesday, 2 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Tuesday, 2 February 2021, 06:00 — 12:00",Sunny.,26.0,21.0,1017,6,320,57
+12:00,"Tuesday, 2 February 2021, 12:00 — 18:00",Scattered clouds.,29.0,29.0,1012,4,90,31
+18:00,"Tuesday, 2 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Wednesday, 3 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Wednesday, 3 February 2021, 06:00 — 12:00",Sunny.,27.0,19.0,1016,3,90,50
+12:00,"Wednesday, 3 February 2021, 12:00 — 18:00",Sunny.,29.0,29.0,0,0,0,24
+18:00,"Wednesday, 3 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Thursday, 4 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Thursday, 4 February 2021, 06:00 — 12:00",Sunny.,26.0,19.0,1016,3,270,44
+12:00,"Thursday, 4 February 2021, 12:00 — 18:00",Sunny.,29.0,29.0,1010,2,180,33
+18:00,"Thursday, 4 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Friday, 5 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Friday, 5 February 2021, 06:00 — 12:00",Sunny.,26.0,19.0,1015,2,90,60
+12:00,"Friday, 5 February 2021, 12:00 — 18:00",Passing clouds.,30.0,29.0,1009,5,180,34
+18:00,"Friday, 5 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Saturday, 6 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Saturday, 6 February 2021, 06:00 — 12:00",Sunny.,27.0,19.0,1014,2,140,51
+12:00,"Saturday, 6 February 2021, 12:00 — 18:00",Sunny.,30.0,29.0,1008,4,90,30
+18:00,"Saturday, 6 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Sunday, 7 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Sunday, 7 February 2021, 06:00 — 12:00",Sunny.,26.0,20.0,1015,5,270,46
+12:00,"Sunday, 7 February 2021, 12:00 — 18:00",Sunny.,30.0,29.0,1010,6,90,30
+18:00,"Sunday, 7 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Monday, 8 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Monday, 8 February 2021, 06:00 — 12:00",Sunny.,26.0,26.0,1015,6,90,34
+12:00,"Monday, 8 February 2021, 12:00 — 18:00",Sunny.,30.0,29.0,1010,6,90,27
+18:00,"Monday, 8 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Tuesday, 9 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Tuesday, 9 February 2021, 06:00 — 12:00",Sunny.,26.0,19.0,1015,4,90,41
+12:00,"Tuesday, 9 February 2021, 12:00 — 18:00",Sunny.,31.0,30.0,1009,4,90,28
+18:00,"Tuesday, 9 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Wednesday, 10 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Wednesday, 10 February 2021, 06:00 — 12:00",Sunny.,27.0,27.0,1012,2,90,34
+12:00,"Wednesday, 10 February 2021, 12:00 — 18:00",Passing clouds.,31.0,30.0,1008,2,270,24
+18:00,"Wednesday, 10 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Thursday, 11 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Thursday, 11 February 2021, 06:00 — 12:00",Haze.,19.0,19.0,1013,0,0,62
+12:00,"Thursday, 11 February 2021, 12:00 — 18:00",Passing clouds.,31.0,30.0,1006,0,0,27
+18:00,"Thursday, 11 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Friday, 12 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Friday, 12 February 2021, 06:00 — 12:00",Scattered clouds.,27.0,27.0,1012,0,0,38
+12:00,"Friday, 12 February 2021, 12:00 — 18:00",Scattered clouds.,30.0,30.0,1008,2,320,30
+18:00,"Friday, 12 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Saturday, 13 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Saturday, 13 February 2021, 06:00 — 12:00",Sunny.,27.0,20.0,1014,1,270,54
+12:00,"Saturday, 13 February 2021, 12:00 — 18:00",Sunny.,30.0,30.0,1009,3,90,29
+18:00,"Saturday, 13 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Sunday, 14 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Sunday, 14 February 2021, 06:00 — 12:00",Sunny.,27.0,19.0,1014,3,270,54
+12:00,"Sunday, 14 February 2021, 12:00 — 18:00",Sunny.,31.0,30.0,1009,2,90,28
+18:00,"Sunday, 14 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Monday, 15 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Monday, 15 February 2021, 06:00 — 12:00",Sunny.,27.0,20.0,1013,4,90,60
+12:00,"Monday, 15 February 2021, 12:00 — 18:00",Passing clouds.,32.0,30.0,1007,4,270,30
+18:00,"Monday, 15 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Tuesday, 16 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Tuesday, 16 February 2021, 06:00 — 12:00",Sunny.,28.0,20.0,1012,2,90,64
+12:00,"Tuesday, 16 February 2021, 12:00 — 18:00",Scattered clouds.,32.0,30.0,1006,3,90,36
+18:00,"Tuesday, 16 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Wednesday, 17 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Wednesday, 17 February 2021, 06:00 — 12:00",Sunny.,27.0,19.0,1012,2,90,62
+12:00,"Wednesday, 17 February 2021, 12:00 — 18:00",Partly sunny.,30.0,30.0,1006,3,160,38
+18:00,"Wednesday, 17 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Thursday, 18 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Thursday, 18 February 2021, 06:00 — 12:00",Partly sunny.,26.0,20.0,1013,1,90,67
+12:00,"Thursday, 18 February 2021, 12:00 — 18:00",Partly sunny.,29.0,27.0,1009,6,90,40
+18:00,"Thursday, 18 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Friday, 19 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Friday, 19 February 2021, 06:00 — 12:00",Sunny.,24.0,19.0,1016,6,180,62
+12:00,"Friday, 19 February 2021, 12:00 — 18:00",Partly sunny.,26.0,26.0,1012,6,90,47
+18:00,"Friday, 19 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Saturday, 20 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Saturday, 20 February 2021, 06:00 — 12:00",Sunny.,24.0,18.0,1015,4,270,61
+12:00,"Saturday, 20 February 2021, 12:00 — 18:00",Scattered clouds.,28.0,27.0,1010,5,90,45
+18:00,"Saturday, 20 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Sunday, 21 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Sunday, 21 February 2021, 06:00 — 12:00",Scattered clouds.,25.0,20.0,1015,4,270,62
+12:00,"Sunday, 21 February 2021, 12:00 — 18:00",Scattered clouds.,29.0,28.0,1010,6,90,44
+18:00,"Sunday, 21 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Monday, 22 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Monday, 22 February 2021, 06:00 — 12:00",Partly sunny.,27.0,22.0,1015,2,180,66
+12:00,"Monday, 22 February 2021, 12:00 — 18:00",Scattered clouds.,30.0,29.0,1010,3,90,49
+18:00,"Monday, 22 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Tuesday, 23 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Tuesday, 23 February 2021, 06:00 — 12:00",Sunny.,29.0,22.0,1014,1,90,60
+12:00,"Tuesday, 23 February 2021, 12:00 — 18:00",Scattered clouds.,32.0,31.0,1008,4,90,43
+18:00,"Tuesday, 23 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Wednesday, 24 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Wednesday, 24 February 2021, 06:00 — 12:00",Sunny.,29.0,22.0,1012,4,270,56
+12:00,"Wednesday, 24 February 2021, 12:00 — 18:00",Passing clouds.,33.0,32.0,1007,3,90,44
+18:00,"Wednesday, 24 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Thursday, 25 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Thursday, 25 February 2021, 06:00 — 12:00",Sunny.,30.0,22.0,1013,0,0,56
+12:00,"Thursday, 25 February 2021, 12:00 — 18:00",Partly sunny.,34.0,33.0,1007,2,270,36
+18:00,"Thursday, 25 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Friday, 26 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Friday, 26 February 2021, 06:00 — 12:00",Sunny.,32.0,23.0,1011,2,90,48
+12:00,"Friday, 26 February 2021, 12:00 — 18:00",Passing clouds.,35.0,33.0,1006,2,140,32
+18:00,"Friday, 26 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Saturday, 27 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Saturday, 27 February 2021, 06:00 — 12:00",Sunny.,32.0,32.0,1009,4,110,47
+12:00,"Saturday, 27 February 2021, 12:00 — 18:00",Scattered clouds.,35.0,33.0,1005,1,90,24
+18:00,"Saturday, 27 February 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Sunday, 28 February 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Sunday, 28 February 2021, 06:00 — 12:00",Sunny.,32.0,22.0,1010,2,90,47
+12:00,"Sunday, 28 February 2021, 12:00 — 18:00",Passing clouds.,35.0,33.0,1006,2,90,19
+06:00,"Monday, 1 March 2021, 06:00 — 12:00",Sunny.,22.0,22.0,1013,2,90,57
+12:00,"Monday, 1 March 2021, 12:00 — 18:00",Scattered clouds.,36.0,35.0,1008,0,0,19
+18:00,"Monday, 1 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Tuesday, 2 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Tuesday, 2 March 2021, 06:00 — 12:00",Overcast.,33.0,25.0,1013,3,90,44
+12:00,"Tuesday, 2 March 2021, 12:00 — 18:00",Partly sunny.,36.0,34.0,1008,4,70,22
+18:00,"Tuesday, 2 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Wednesday, 3 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Wednesday, 3 March 2021, 06:00 — 12:00",Sunny.,32.0,24.0,1012,2,90,40
+12:00,"Wednesday, 3 March 2021, 12:00 — 18:00",Scattered clouds.,35.0,34.0,1007,4,90,24
+18:00,"Wednesday, 3 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Thursday, 4 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Thursday, 4 March 2021, 06:00 — 12:00",Sunny.,31.0,23.0,1012,3,90,39
+12:00,"Thursday, 4 March 2021, 12:00 — 18:00",Sunny.,35.0,33.0,1007,3,90,18
+18:00,"Thursday, 4 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Friday, 5 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Friday, 5 March 2021, 06:00 — 12:00",Sunny.,31.0,21.0,1014,1,180,43
+12:00,"Friday, 5 March 2021, 12:00 — 18:00",Sunny.,34.0,33.0,1008,4,90,22
+18:00,"Friday, 5 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Saturday, 6 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Saturday, 6 March 2021, 06:00 — 12:00",Sunny.,31.0,21.0,1014,1,270,44
+12:00,"Saturday, 6 March 2021, 12:00 — 18:00",Sunny.,35.0,33.0,1008,5,70,23
+18:00,"Saturday, 6 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Sunday, 7 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Sunday, 7 March 2021, 06:00 — 12:00",Sunny.,32.0,32.0,1012,2,90,27
+12:00,"Sunday, 7 March 2021, 12:00 — 18:00",Passing clouds.,34.0,32.0,1007,2,270,24
+18:00,"Sunday, 7 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Monday, 8 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Monday, 8 March 2021, 06:00 — 12:00",Sunny.,32.0,23.0,1013,2,90,43
+12:00,"Monday, 8 March 2021, 12:00 — 18:00",Sunny.,36.0,34.0,1007,3,90,20
+18:00,"Monday, 8 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Tuesday, 9 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Tuesday, 9 March 2021, 06:00 — 12:00",Sunny.,32.0,23.0,1013,1,270,43
+12:00,"Tuesday, 9 March 2021, 12:00 — 18:00",Passing clouds.,36.0,34.0,1008,3,90,18
+18:00,"Tuesday, 9 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Wednesday, 10 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Wednesday, 10 March 2021, 06:00 — 12:00",Sunny.,31.0,31.0,1012,2,90,31
+12:00,"Wednesday, 10 March 2021, 12:00 — 18:00",Passing clouds.,35.0,34.0,1007,4,90,18
+18:00,"Wednesday, 10 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Thursday, 11 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Thursday, 11 March 2021, 06:00 — 12:00",Sunny.,31.0,23.0,1012,2,270,55
+12:00,"Thursday, 11 March 2021, 12:00 — 18:00",Scattered clouds.,35.0,34.0,1007,4,90,20
+18:00,"Thursday, 11 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Friday, 12 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Friday, 12 March 2021, 06:00 — 12:00",Partly sunny.,31.0,23.0,1013,2,270,55
+12:00,"Friday, 12 March 2021, 12:00 — 18:00",Scattered clouds.,34.0,34.0,1008,2,90,22
+18:00,"Friday, 12 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Saturday, 13 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Saturday, 13 March 2021, 06:00 — 12:00",Partly sunny.,31.0,24.0,1013,3,90,50
+12:00,"Saturday, 13 March 2021, 12:00 — 18:00",Passing clouds.,35.0,34.0,1008,3,90,22
+18:00,"Saturday, 13 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Sunday, 14 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Sunday, 14 March 2021, 06:00 — 12:00",Sunny.,31.0,31.0,1011,2,110,29
+12:00,"Sunday, 14 March 2021, 12:00 — 18:00",Sunny.,35.0,34.0,1006,5,90,22
+18:00,"Sunday, 14 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Monday, 15 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Monday, 15 March 2021, 06:00 — 12:00",Sunny.,32.0,23.0,1011,4,90,46
+12:00,"Monday, 15 March 2021, 12:00 — 18:00",Sunny.,35.0,34.0,1006,3,90,24
+18:00,"Monday, 15 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Tuesday, 16 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Tuesday, 16 March 2021, 06:00 — 12:00",Sunny.,31.0,23.0,1011,3,90,51
+12:00,"Tuesday, 16 March 2021, 12:00 — 18:00",Passing clouds.,36.0,34.0,1006,2,90,26
+18:00,"Tuesday, 16 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Wednesday, 17 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Wednesday, 17 March 2021, 06:00 — 12:00",Sunny.,32.0,23.0,1010,4,180,49
+12:00,"Wednesday, 17 March 2021, 12:00 — 18:00",Partly sunny.,34.0,34.0,1005,3,90,30
+18:00,"Wednesday, 17 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Thursday, 18 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Thursday, 18 March 2021, 06:00 — 12:00",Scattered clouds.,32.0,24.0,1010,0,0,54
+12:00,"Thursday, 18 March 2021, 12:00 — 18:00",Passing clouds.,36.0,34.0,1005,2,270,36
+18:00,"Thursday, 18 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Friday, 19 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Friday, 19 March 2021, 06:00 — 12:00",Passing clouds.,33.0,25.0,1010,2,90,51
+12:00,"Friday, 19 March 2021, 12:00 — 18:00",Passing clouds.,34.0,34.0,1004,2,270,32
+18:00,"Friday, 19 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Saturday, 20 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Saturday, 20 March 2021, 06:00 — 12:00",Sunny.,32.0,25.0,1009,1,90,44
+12:00,"Saturday, 20 March 2021, 12:00 — 18:00",Scattered clouds.,36.0,35.0,1003,1,90,32
+18:00,"Saturday, 20 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Sunday, 21 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Sunday, 21 March 2021, 06:00 — 12:00",Scattered clouds.,29.0,24.0,1010,4,90,51
+12:00,"Sunday, 21 March 2021, 12:00 — 18:00",Sunny.,34.0,34.0,1004,3,90,42
+18:00,"Sunday, 21 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Monday, 22 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Monday, 22 March 2021, 06:00 — 12:00",Sunny.,31.0,25.0,1011,1,90,54
+12:00,"Monday, 22 March 2021, 12:00 — 18:00",Sunny.,36.0,35.0,1006,5,90,30
+18:00,"Monday, 22 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Tuesday, 23 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Tuesday, 23 March 2021, 06:00 — 12:00",Sunny.,30.0,24.0,1012,6,90,54
+12:00,"Tuesday, 23 March 2021, 12:00 — 18:00",Passing clouds.,34.0,33.0,1007,4,90,36
+18:00,"Tuesday, 23 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Wednesday, 24 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Wednesday, 24 March 2021, 06:00 — 12:00",Sunny.,32.0,32.0,1012,4,90,41
+12:00,"Wednesday, 24 March 2021, 12:00 — 18:00",Passing clouds.,35.0,35.0,1005,2,50,37
+18:00,"Wednesday, 24 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Thursday, 25 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Thursday, 25 March 2021, 06:00 — 12:00",Scattered clouds.,32.0,26.0,1010,4,90,46
+12:00,"Thursday, 25 March 2021, 12:00 — 18:00",Scattered clouds.,36.0,35.0,1005,4,110,34
+18:00,"Thursday, 25 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Friday, 26 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Friday, 26 March 2021, 06:00 — 12:00",Sunny.,34.0,27.0,1010,6,90,34
+12:00,"Friday, 26 March 2021, 12:00 — 18:00",Sunny.,37.0,37.0,1004,4,90,28
+18:00,"Friday, 26 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Saturday, 27 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Saturday, 27 March 2021, 06:00 — 12:00",Sunny.,34.0,27.0,1009,4,90,35
+12:00,"Saturday, 27 March 2021, 12:00 — 18:00",Scattered clouds.,38.0,37.0,1003,2,90,29
+18:00,"Saturday, 27 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Sunday, 28 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Sunday, 28 March 2021, 06:00 — 12:00",Sunny.,34.0,25.0,1009,2,90,56
+12:00,"Sunday, 28 March 2021, 12:00 — 18:00",Passing clouds.,38.0,37.0,1003,2,270,30
+18:00,"Sunday, 28 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Monday, 29 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Monday, 29 March 2021, 06:00 — 12:00",Sunny.,35.0,25.0,1008,2,50,56
+12:00,"Monday, 29 March 2021, 12:00 — 18:00",Sunny.,39.0,39.0,1003,2,90,16
+18:00,"Monday, 29 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Tuesday, 30 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Tuesday, 30 March 2021, 06:00 — 12:00",Scattered clouds.,26.0,26.0,1010,2,270,90
+12:00,"Tuesday, 30 March 2021, 12:00 — 18:00",Passing clouds.,35.0,34.0,1004,4,230,40
+18:00,"Tuesday, 30 March 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Wednesday, 31 March 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Wednesday, 31 March 2021, 06:00 — 12:00",Sunny.,35.0,25.0,1007,0,0,45
+12:00,"Wednesday, 31 March 2021, 12:00 — 18:00",Sunny.,39.0,37.0,1002,6,260,18
+06:00,"Thursday, 1 April 2021, 06:00 — 12:00",Sunny.,32.0,23.0,1008,1,270,48
+12:00,"Thursday, 1 April 2021, 12:00 — 18:00",Sunny.,36.0,36.0,1001,2,270,30
+18:00,"Thursday, 1 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Friday, 2 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Friday, 2 April 2021, 06:00 — 12:00",Passing clouds.,31.0,23.0,1008,3,270,55
+12:00,"Friday, 2 April 2021, 12:00 — 18:00",Passing clouds.,36.0,35.0,1002,4,290,24
+18:00,"Friday, 2 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Saturday, 3 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Saturday, 3 April 2021, 06:00 — 12:00",Sunny.,29.0,22.0,1009,2,270,64
+12:00,"Saturday, 3 April 2021, 12:00 — 18:00",Sunny.,34.0,33.0,1005,6,270,37
+18:00,"Saturday, 3 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Sunday, 4 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Sunday, 4 April 2021, 06:00 — 12:00",Sunny.,32.0,24.0,1010,1,270,57
+12:00,"Sunday, 4 April 2021, 12:00 — 18:00",Passing clouds.,37.0,35.0,1004,4,90,28
+18:00,"Sunday, 4 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Monday, 5 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Monday, 5 April 2021, 06:00 — 12:00",Sunny.,35.0,25.0,1010,2,70,50
+12:00,"Monday, 5 April 2021, 12:00 — 18:00",Passing clouds.,39.0,38.0,1004,1,90,18
+18:00,"Monday, 5 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Tuesday, 6 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Tuesday, 6 April 2021, 06:00 — 12:00",Sunny.,35.0,27.0,1009,0,0,44
+12:00,"Tuesday, 6 April 2021, 12:00 — 18:00",Passing clouds.,37.0,37.0,1004,3,290,23
+18:00,"Tuesday, 6 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Wednesday, 7 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Wednesday, 7 April 2021, 06:00 — 12:00",Partly sunny.,35.0,29.0,1010,0,0,34
+12:00,"Wednesday, 7 April 2021, 12:00 — 18:00",Partly sunny.,37.0,36.0,1005,1,290,32
+18:00,"Wednesday, 7 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Thursday, 8 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Thursday, 8 April 2021, 06:00 — 12:00",Partly sunny.,31.0,25.0,1009,2,270,63
+12:00,"Thursday, 8 April 2021, 12:00 — 18:00",Scattered clouds.,36.0,34.0,1004,3,290,36
+18:00,"Thursday, 8 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Friday, 9 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Friday, 9 April 2021, 06:00 — 12:00",Partly sunny.,26.0,25.0,1009,0,0,77
+12:00,"Friday, 9 April 2021, 12:00 — 18:00",Partly sunny.,35.0,32.0,1004,0,0,38
+18:00,"Friday, 9 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Saturday, 10 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Saturday, 10 April 2021, 06:00 — 12:00",Scattered clouds.,24.0,24.0,1010,2,90,79
+12:00,"Saturday, 10 April 2021, 12:00 — 18:00",Scattered clouds.,33.0,30.0,1006,5,90,44
+18:00,"Saturday, 10 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Sunday, 11 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Sunday, 11 April 2021, 06:00 — 12:00",Partly sunny.,30.0,23.0,1012,4,90,66
+12:00,"Sunday, 11 April 2021, 12:00 — 18:00",Passing clouds.,35.0,34.0,1006,2,70,34
+18:00,"Sunday, 11 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Monday, 12 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Monday, 12 April 2021, 06:00 — 12:00",Passing clouds.,24.0,24.0,1013,2,90,76
+12:00,"Monday, 12 April 2021, 12:00 — 18:00",Scattered clouds.,34.0,33.0,1007,2,90,44
+18:00,"Monday, 12 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Tuesday, 13 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Tuesday, 13 April 2021, 06:00 — 12:00",Sunny.,31.0,25.0,1012,2,90,60
+12:00,"Tuesday, 13 April 2021, 12:00 — 18:00",Scattered clouds.,35.0,33.0,1006,6,90,38
+18:00,"Tuesday, 13 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Wednesday, 14 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Wednesday, 14 April 2021, 06:00 — 12:00",Sunny.,29.0,24.0,1012,2,140,68
+12:00,"Wednesday, 14 April 2021, 12:00 — 18:00",Passing clouds.,32.0,32.0,1006,3,90,44
+18:00,"Wednesday, 14 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Thursday, 15 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Thursday, 15 April 2021, 06:00 — 12:00",Partly sunny.,30.0,25.0,1011,3,90,48
+12:00,"Thursday, 15 April 2021, 12:00 — 18:00",Passing clouds.,34.0,34.0,1006,2,250,35
+18:00,"Thursday, 15 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Friday, 16 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Friday, 16 April 2021, 06:00 — 12:00",Sunny.,31.0,24.0,1010,1,90,62
+12:00,"Friday, 16 April 2021, 12:00 — 18:00",Passing clouds.,36.0,35.0,1005,1,270,32
+18:00,"Friday, 16 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Saturday, 17 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Saturday, 17 April 2021, 06:00 — 12:00",Passing clouds.,34.0,25.0,1010,2,50,53
+12:00,"Saturday, 17 April 2021, 12:00 — 18:00",Passing clouds.,37.0,37.0,1005,1,70,22
+18:00,"Saturday, 17 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Sunday, 18 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Sunday, 18 April 2021, 06:00 — 12:00",Passing clouds.,34.0,25.0,1011,4,90,56
+12:00,"Sunday, 18 April 2021, 12:00 — 18:00",Scattered clouds.,38.0,37.0,1005,1,50,24
+18:00,"Sunday, 18 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Monday, 19 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Monday, 19 April 2021, 06:00 — 12:00",Passing clouds.,31.0,26.0,1010,0,0,68
+12:00,"Monday, 19 April 2021, 12:00 — 18:00",No weather data available,,,0,0,0,0
+18:00,"Monday, 19 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Tuesday, 20 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Tuesday, 20 April 2021, 06:00 — 12:00",Sunny.,32.0,25.0,1009,4,270,60
+12:00,"Tuesday, 20 April 2021, 12:00 — 18:00",Passing clouds.,35.0,35.0,1004,5,270,28
+18:00,"Tuesday, 20 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Wednesday, 21 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Wednesday, 21 April 2021, 06:00 — 12:00",Scattered clouds.,30.0,25.0,1011,1,320,60
+12:00,"Wednesday, 21 April 2021, 12:00 — 18:00",Scattered clouds.,36.0,35.0,1006,4,230,24
+18:00,"Wednesday, 21 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Thursday, 22 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Thursday, 22 April 2021, 06:00 — 12:00",Passing clouds.,33.0,25.0,1010,2,90,56
+12:00,"Thursday, 22 April 2021, 12:00 — 18:00",Scattered clouds.,37.0,36.0,1005,2,140,25
+18:00,"Thursday, 22 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Friday, 23 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Friday, 23 April 2021, 06:00 — 12:00",Scattered clouds.,30.0,25.0,1011,2,270,68
+12:00,"Friday, 23 April 2021, 12:00 — 18:00",Scattered clouds.,35.0,34.0,1006,3,290,37
+18:00,"Friday, 23 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Saturday, 24 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Saturday, 24 April 2021, 06:00 — 12:00",Scattered clouds.,32.0,25.0,1010,2,270,50
+12:00,"Saturday, 24 April 2021, 12:00 — 18:00",Passing clouds.,37.0,36.0,1004,1,320,24
+18:00,"Saturday, 24 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Sunday, 25 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Sunday, 25 April 2021, 06:00 — 12:00",Passing clouds.,33.0,26.0,1009,2,90,48
+12:00,"Sunday, 25 April 2021, 12:00 — 18:00",Scattered clouds.,37.0,34.0,1004,7,270,34
+18:00,"Sunday, 25 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Monday, 26 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Monday, 26 April 2021, 06:00 — 12:00",Partly sunny.,32.0,25.0,1009,1,180,57
+12:00,"Monday, 26 April 2021, 12:00 — 18:00",Scattered clouds.,36.0,35.0,1004,2,270,34
+18:00,"Monday, 26 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Tuesday, 27 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Tuesday, 27 April 2021, 06:00 — 12:00",Overcast.,30.0,24.0,1010,4,230,58
+12:00,"Tuesday, 27 April 2021, 12:00 — 18:00",Passing clouds.,36.0,35.0,1005,3,180,33
+18:00,"Tuesday, 27 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Wednesday, 28 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Wednesday, 28 April 2021, 06:00 — 12:00",Passing clouds.,33.0,26.0,1010,1,90,46
+12:00,"Wednesday, 28 April 2021, 12:00 — 18:00",Sunny.,37.0,36.0,1005,2,90,23
+18:00,"Wednesday, 28 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Thursday, 29 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Thursday, 29 April 2021, 06:00 — 12:00",Partly sunny.,31.0,26.0,1010,1,270,65
+12:00,"Thursday, 29 April 2021, 12:00 — 18:00",Scattered clouds.,36.0,22.0,1007,4,270,64
+18:00,"Thursday, 29 April 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Friday, 30 April 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Friday, 30 April 2021, 06:00 — 12:00",Passing clouds.,30.0,22.0,1009,1,270,61
+12:00,"Friday, 30 April 2021, 12:00 — 18:00",Sunny.,35.0,35.0,1004,3,90,28
+06:00,"Saturday, 1 May 2021, 06:00 — 12:00",Sunny.,31.0,26.0,1008,1,140,49
+12:00,"Saturday, 1 May 2021, 12:00 — 18:00",Scattered clouds.,36.0,34.0,1003,4,180,40
+18:00,"Saturday, 1 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Sunday, 2 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Sunday, 2 May 2021, 06:00 — 12:00",Sunny.,26.0,26.0,1009,0,0,73
+12:00,"Sunday, 2 May 2021, 12:00 — 18:00",Drizzle. Overcast.,26.0,26.0,1006,7,270,71
+18:00,"Sunday, 2 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Monday, 3 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Monday, 3 May 2021, 06:00 — 12:00",Sunny.,30.0,25.0,1009,4,90,58
+12:00,"Monday, 3 May 2021, 12:00 — 18:00",Passing clouds.,35.0,35.0,1003,0,0,40
+18:00,"Monday, 3 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Tuesday, 4 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Tuesday, 4 May 2021, 06:00 — 12:00",Scattered clouds.,33.0,26.0,1008,0,0,62
+12:00,"Tuesday, 4 May 2021, 12:00 — 18:00",Partly sunny.,36.0,26.0,1004,4,90,53
+18:00,"Tuesday, 4 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Wednesday, 5 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Wednesday, 5 May 2021, 06:00 — 12:00",Sunny.,32.0,26.0,1008,2,90,63
+12:00,"Wednesday, 5 May 2021, 12:00 — 18:00",Partly sunny.,36.0,27.0,1004,6,270,48
+18:00,"Wednesday, 5 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Thursday, 6 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Thursday, 6 May 2021, 06:00 — 12:00",Overcast.,32.0,26.0,1009,2,270,67
+12:00,"Thursday, 6 May 2021, 12:00 — 18:00",Scattered clouds.,35.0,35.0,1004,6,230,44
+18:00,"Thursday, 6 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Friday, 7 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Friday, 7 May 2021, 06:00 — 12:00",Passing clouds.,31.0,27.0,1010,2,230,66
+12:00,"Friday, 7 May 2021, 12:00 — 18:00",Partly sunny.,35.0,25.0,1006,4,270,60
+18:00,"Friday, 7 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Saturday, 8 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Saturday, 8 May 2021, 06:00 — 12:00",Sunny.,30.0,25.0,1009,1,70,72
+12:00,"Saturday, 8 May 2021, 12:00 — 18:00",Passing clouds.,34.0,33.0,1003,3,90,48
+18:00,"Saturday, 8 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Sunday, 9 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Sunday, 9 May 2021, 06:00 — 12:00",Passing clouds.,30.0,26.0,1008,2,320,76
+12:00,"Sunday, 9 May 2021, 12:00 — 18:00",Overcast.,34.0,30.0,1004,6,270,57
+18:00,"Sunday, 9 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Monday, 10 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Monday, 10 May 2021, 06:00 — 12:00",Sunny.,32.0,25.0,1007,0,0,62
+12:00,"Monday, 10 May 2021, 12:00 — 18:00",Passing clouds.,36.0,35.0,1002,0,0,40
+18:00,"Monday, 10 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Tuesday, 11 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Tuesday, 11 May 2021, 06:00 — 12:00",Sunny.,31.0,26.0,1008,4,270,62
+12:00,"Tuesday, 11 May 2021, 12:00 — 18:00",Passing clouds.,34.0,34.0,1003,4,270,46
+18:00,"Tuesday, 11 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Wednesday, 12 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Wednesday, 12 May 2021, 06:00 — 12:00",Scattered clouds.,30.0,25.0,1006,2,270,62
+12:00,"Wednesday, 12 May 2021, 12:00 — 18:00",Partly sunny.,35.0,32.0,1002,4,270,47
+18:00,"Wednesday, 12 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Thursday, 13 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Thursday, 13 May 2021, 06:00 — 12:00",Scattered clouds.,30.0,26.0,1006,1,50,68
+12:00,"Thursday, 13 May 2021, 12:00 — 18:00",Overcast.,32.0,31.0,1002,5,270,55
+18:00,"Thursday, 13 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Friday, 14 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Friday, 14 May 2021, 06:00 — 12:00",Scattered clouds.,31.0,26.0,1004,2,180,64
+12:00,"Friday, 14 May 2021, 12:00 — 18:00",Partly sunny.,35.0,35.0,998,6,90,40
+18:00,"Friday, 14 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Saturday, 15 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Saturday, 15 May 2021, 06:00 — 12:00",Overcast.,31.0,28.0,1000,8,140,64
+12:00,"Saturday, 15 May 2021, 12:00 — 18:00",Partly sunny.,33.0,27.0,996,13,90,58
+18:00,"Saturday, 15 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Sunday, 16 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Sunday, 16 May 2021, 06:00 — 12:00",Passing clouds.,25.0,25.0,998,41,20,41
+12:00,"Sunday, 16 May 2021, 12:00 — 18:00",Light rain. Overcast.,24.0,23.0,996,11,90,92
+18:00,"Sunday, 16 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Monday, 17 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Monday, 17 May 2021, 06:00 — 12:00",Overcast.,26.0,26.0,1004,9,180,73
+12:00,"Monday, 17 May 2021, 12:00 — 18:00",Partly sunny.,30.0,29.0,1002,6,230,59
+18:00,"Monday, 17 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Tuesday, 18 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Tuesday, 18 May 2021, 06:00 — 12:00",Overcast.,27.0,25.0,1006,6,180,80
+12:00,"Tuesday, 18 May 2021, 12:00 — 18:00",Thundershowers. Overcast.,27.0,26.0,1004,5,180,82
+18:00,"Tuesday, 18 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Wednesday, 19 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Wednesday, 19 May 2021, 06:00 — 12:00",Partly sunny.,28.0,25.0,1006,6,230,79
+12:00,"Wednesday, 19 May 2021, 12:00 — 18:00",Light rain. Partly sunny.,30.0,28.0,1003,6,270,70
+18:00,"Wednesday, 19 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Thursday, 20 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Thursday, 20 May 2021, 06:00 — 12:00",Scattered clouds.,29.0,29.0,1007,2,270,66
+12:00,"Thursday, 20 May 2021, 12:00 — 18:00",Passing clouds.,31.0,31.0,1004,2,320,59
+18:00,"Thursday, 20 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Friday, 21 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Friday, 21 May 2021, 06:00 — 12:00",Passing clouds.,29.0,25.0,1008,2,270,76
+12:00,"Friday, 21 May 2021, 12:00 — 18:00",Scattered clouds.,32.0,31.0,1004,6,270,55
+18:00,"Friday, 21 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Saturday, 22 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Saturday, 22 May 2021, 06:00 — 12:00",Partly sunny.,29.0,25.0,1008,2,270,76
+12:00,"Saturday, 22 May 2021, 12:00 — 18:00",Scattered clouds.,31.0,31.0,1005,4,270,54
+18:00,"Saturday, 22 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Sunday, 23 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Sunday, 23 May 2021, 06:00 — 12:00",Partly sunny.,29.0,26.0,1008,3,270,73
+12:00,"Sunday, 23 May 2021, 12:00 — 18:00",Scattered clouds.,33.0,31.0,1004,5,270,54
+18:00,"Sunday, 23 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Monday, 24 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Monday, 24 May 2021, 06:00 — 12:00",Overcast.,25.0,25.0,1009,0,0,87
+12:00,"Monday, 24 May 2021, 12:00 — 18:00",Passing clouds.,30.0,30.0,1005,2,50,63
+18:00,"Monday, 24 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Tuesday, 25 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Tuesday, 25 May 2021, 06:00 — 12:00",Passing clouds.,30.0,30.0,1007,0,0,66
+12:00,"Tuesday, 25 May 2021, 12:00 — 18:00",Scattered clouds.,33.0,31.0,1003,4,270,62
+18:00,"Tuesday, 25 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Wednesday, 26 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Wednesday, 26 May 2021, 06:00 — 12:00",Partly sunny.,29.0,26.0,1006,2,270,68
+12:00,"Wednesday, 26 May 2021, 12:00 — 18:00",Partly sunny.,32.0,30.0,1003,5,270,68
+18:00,"Wednesday, 26 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Thursday, 27 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Thursday, 27 May 2021, 06:00 — 12:00",Scattered clouds.,29.0,26.0,1006,6,230,75
+12:00,"Thursday, 27 May 2021, 12:00 — 18:00",Scattered clouds.,31.0,29.0,1004,7,270,71
+18:00,"Thursday, 27 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Friday, 28 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Friday, 28 May 2021, 06:00 — 12:00",Partly sunny.,30.0,26.0,1007,2,270,74
+12:00,"Friday, 28 May 2021, 12:00 — 18:00",Partly sunny.,32.0,31.0,1004,4,270,64
+18:00,"Friday, 28 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Saturday, 29 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Saturday, 29 May 2021, 06:00 — 12:00",Scattered clouds.,30.0,26.0,1007,3,270,72
+12:00,"Saturday, 29 May 2021, 12:00 — 18:00",Scattered clouds.,33.0,29.0,1004,6,270,60
+18:00,"Saturday, 29 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Sunday, 30 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Sunday, 30 May 2021, 06:00 — 12:00",Partly sunny.,30.0,26.0,1008,2,180,69
+12:00,"Sunday, 30 May 2021, 12:00 — 18:00",Partly sunny.,33.0,31.0,1004,3,270,64
+18:00,"Sunday, 30 May 2021, 18:00 — 00:00",No weather data available,,,0,0,0,0
+00:00,"Monday, 31 May 2021, 00:00 — 06:00",No weather data available,,,0,0,0,0
+06:00,"Monday, 31 May 2021, 06:00 — 12:00",Scattered clouds.,30.0,26.0,1006,3,270,71
+12:00,"Monday, 31 May 2021, 12:00 — 18:00",Partly sunny.,30.0,30.0,1003,6,270,76
